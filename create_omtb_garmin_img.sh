@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/usr/bin/env zsh
 # License: Creative Commons Share Alike 3.0
 # Copyright: 2012, Bernhard Tittelbach <xro@realraum.at>
 # Thanks to malenki on #osm-de@oftc.net for constructive input and nagging me into making this thing useable in the first place
